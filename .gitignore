@@ -1,0 +1,17 @@
+# file types to ignore when uploading to GitHub
+
+# ignore virtual environment
+venv/
+
+# data files and related files used for data
+*xlsx
+*.csv
+*.pdf
+*.txt
+
+# jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# python cache files
+__pycache__/
+*.py[cod]
