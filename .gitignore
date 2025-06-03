@@ -1,7 +1,7 @@
 # file types to ignore when uploading to GitHub
 
 # ignore virtual environment
-venv/
+.venv
 
 # data files and related files used for data
 *xlsx
